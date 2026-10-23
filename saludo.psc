@@ -8,5 +8,5 @@ Algoritmo Saludo
     Escribir 'Cual es tu apellido?'
     Leer apellido
 
-    Escribir 'Mucho gusto ', nom, ' ', apellido, ' encantada de Poder hablar contigo'
+    Escribir 'Mucho gusto ', nombre, ' ', apellido, ' encantada de Poder hablar contigo'
 FinAlgoritmo
