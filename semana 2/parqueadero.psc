@@ -41,39 +41,6 @@ Algoritmo parqueadero
 
 		Escribir "Desea recibir factura? (si/no):";
 		Leer factura;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
 		Si Minusculas(factura) = "si" Entonces
 			Escribir "===== FACTURA =====";
 			Escribir "Vehiculo: ", tipoVehiculo;
