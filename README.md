@@ -38,3 +38,4 @@ Ejercicios de algoritmia del curso de Riwi, escritos en pseudocódigo **PSeInt**
 
 1. Instalar [PSeInt](https://pseint.sourceforge.net/).
 2. Abrir el archivo `.psc` y ejecutar con **F9**.
+    
